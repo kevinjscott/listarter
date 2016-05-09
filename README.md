@@ -8,6 +8,8 @@
 ####Get the code
 `git clone git@github.com:kevinjscott/listarter.git <YOUR_APP_HERE>`
 
+`cd <YOUR_APP_HERE>`
+
 ####Install everything
 `npm install`
 
