@@ -8,12 +8,13 @@ Install node and npm from here https://nodejs.org/en/
 Install git here https://git-scm.com/download
 
 Windows: `npm install -g bower  cordova  ionic  gulp  ios-sim`
+
 Mac: `sudo npm install -g bower  cordova  ionic  gulp  ios-sim`
 
 ####Get the code
-`git clone git@github.com:kevinjscott/listarter.git <YOUR_APP_HERE>`
+`git clone https://github.com/kevinjscott/listarter.git <YOUR_TARGET_DIRECTORY_HERE>`
 
-`cd <YOUR_APP_HERE>`
+`cd <YOUR_TARGET_DIRECTORY_HERE>`
 
 ####Install everything
 `npm install`
