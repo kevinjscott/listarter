@@ -3,6 +3,8 @@
 ## Installation
 
 ####Set up the basic environment for Ionic dev
+Get node and npm from here https://nodejs.org/en/
+
 `sudo npm install -g bower  cordova  ionic  gulp  ios-sim`
 
 ####Get the code
